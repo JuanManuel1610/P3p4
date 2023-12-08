@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P3p4</string>
+    <string name="titulo">Agenda</string>
+    <string name="txtnom">Nombre</string>
+    <string name="txted">Edad</string>
+    <string name="correo">Correo</string>
+    <string name="btn">Leer</string>
+    <string name="btn2">Guardar</string>
+</resources>
